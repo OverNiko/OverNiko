@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://github.com/OverNiko/OverNiko/blob/main/name.svg" alt="Hello, I'm OverNiko." />
+</h1>
 
 📚 My stack
 ---
