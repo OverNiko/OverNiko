@@ -2,6 +2,8 @@
   <img src="https://github.com/OverNiko/OverNiko/blob/main/name.svg" alt="Hello, I'm OverNiko." />
 </h1>
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OverNiko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   
